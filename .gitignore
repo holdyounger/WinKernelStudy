@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+KmdfGetProcess/x64
+*.tlog
+*.log
+*.idb
+*.pdb
+**/Debug/**
+.vs/WinKernelStudy/v17
+.vs/WinKernelStudy/FileContentIndex
+.vs
